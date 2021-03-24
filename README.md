@@ -1,7 +1,7 @@
 # Curso de Métodos Numéricos
 
 
-[Hojas de referencia para Rstudio](https://rstudio.com/resources/cheatsheets/) 
+[Hojas de referencia para R](https://rstudio.com/resources/cheatsheets/) 
 
 
 Curso de R 
