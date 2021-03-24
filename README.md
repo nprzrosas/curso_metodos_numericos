@@ -1,6 +1,6 @@
 # Curso de Métodos Numéricos
 
-## Ligas
+## Link de rstudio 
 [link](https://rstudio.com/resources/cheatsheets/) 
 
 
